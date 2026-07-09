@@ -1,0 +1,6 @@
+{
+  "name": "Android Spend Tracker Studio",
+  "description": "An interactive Android emulator and Jetpack Compose code studio for an offline Spend Tracker app, featuring Room database, custom Canvas charts, and JSON data backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
